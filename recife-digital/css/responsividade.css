@@ -1,0 +1,195 @@
+@media (max-width:1356px) {
+    .navbar {
+        position: relative;
+    }
+
+    .logo {
+        flex: 100%;
+        text-align: center;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .texto2 {
+        font-size: 60px;
+    }
+}
+
+@media (max-width:1170px) {
+    .section1 h2 {
+        margin-top: 0px;
+    }
+
+    .texto2 {
+        font-size: 50px;
+    }
+
+    .texto3 {
+        margin-bottom: 5%;
+    }
+
+    .card1,
+    .card2 {
+        margin-right: 3%;
+    }
+
+    .card1,
+    .card2,
+    .card3 {
+        height: 220px;
+    }
+
+    .card1 h2,
+    .card2 h2,
+    .card3 h2 {
+        font-size: 20px;
+    }
+
+    .card1 p,
+    .card2 p,
+    .card3 p {
+        font-size: 12px;
+    }
+
+    .section3 {
+        height: 500px;
+    }
+
+    .section3 img {
+        height: 400px;
+    }
+
+    .voltar-topo {
+        display: none;
+    }
+}
+
+@media (max-width:989px) {
+    .header {
+        flex-direction: column;
+    }
+
+    .headline1 {
+        text-align: center;
+    }
+
+    .texto1,
+    .texto2,
+    .texto3 {
+        text-align: center;
+    }
+
+    .texto3 {
+        margin-bottom: 2%;
+    }
+
+    .headline2 {
+        text-align: center;
+    }
+
+    .headline2 img {
+        height: 450px;
+        text-align: center;
+    }
+
+    .section1 h2 {
+        font-size: 40px;
+    }
+
+    .section2 {
+        flex-direction: column;
+    }
+
+    .card1,
+    .card2 {
+        margin-bottom: 5%;
+        margin-right: 0;
+    }
+
+}
+
+@media (max-width:797px) {
+    .texto3 {
+        text-align: justify;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width:592px) {
+    .texto3 {
+        border: 4px solid #465b65;
+        background-color: #f0d4df;
+        border-radius: 0px 20px 0px 20px;
+        color: rgb(16, 14, 14);
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .texto2 {
+        font-size: 40px;
+        margin-bottom: 5px;
+    }
+
+    .section1 h2 {
+        font-size: 30px;
+    }
+
+}
+
+@media (max-width:494px) {
+   
+    .section2{
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+    .header{
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+    .texto1 {
+        font-size: 15px;
+        letter-spacing: 7px;
+    }
+
+
+    .headline2 img {
+        margin-top: 20px;
+        height: 350px;
+    }
+
+    .section1 h2 {
+        margin-top: 0px;
+        font-size: 24px;
+    }
+
+    .section3 {
+        height: 350px;
+    }
+
+    .section3 img {
+        height: 350px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+}
+
+@media (max-width:351px){
+    .texto1{
+        font-size: 12px;
+    }
+.texto2{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.texto3{
+    margin-bottom: 30px;
+}
+.section1 h2{
+    font-size: 17px;
+}
+
+}
+   
+
