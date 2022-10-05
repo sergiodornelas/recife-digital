@@ -17,8 +17,10 @@ Aqui estão as tecnologias usadas neste projeto:
 ## _Serviços utilizados_
 * NETLIFY
 ***
+## _Prévia do projeto:_ 
 <img align="center" alt="jr-pic"  src="https://user-images.githubusercontent.com/110427773/194071678-2164594b-58f3-490f-937c-0d9303a8cc7c.png">
 
+[Recife-digital➚](https://recife-digital.netlify.app/)
 ***
 
 
