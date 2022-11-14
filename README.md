@@ -1,7 +1,5 @@
 ## _Recife digital_
 
-➫Olá!! Tudo bem? Este é o primeiro projeto que documento no **GITHUB**, espero que gostem!🤩\O/
-
 ➫Trata-se de um _layout one page_, com algumas animações e adaptado para todos os tipos de dispositivos.
 
 ➫Para ver o projeto completo, é só clicar aqui: [Recife-digital➚](https://recife-digital.netlify.app/)
