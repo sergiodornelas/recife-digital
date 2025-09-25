@@ -181,7 +181,7 @@ body {
 }
 
 .card1:hover {
-    background-color: #ff2978;
+    background-color: #a8969c;
     box-shadow: 2px 2px 2px #465b65;
 }
 
@@ -206,7 +206,7 @@ body {
 }
 
 .card2:hover:hover {
-    background-color: #ff2978;
+    background-color: #a8969c;
     box-shadow: 2px 2px 2px #465b65;
 }
 
@@ -232,7 +232,7 @@ body {
 }
 
 .card3:hover {
-    background-color: #ff2978;
+    background-color: #a8969c;
     box-shadow: 2px 2px 2px #180f4a;
 }
 
