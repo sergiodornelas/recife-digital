@@ -2,7 +2,7 @@
 
 ➫ _layout one page_, adaptado para todos os tipos de dispositivos.
 
-➫Para ver o projeto completo: [Recife-digital➚](https://recife-site.netlify.app/)
+➫Para ver o projeto completo: [Recife-site➚](https://recife-site.netlify.app/)
 
 ## _Tecnologias_ 
 
