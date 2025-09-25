@@ -1,8 +1,8 @@
 ## _Recife digital_
 
-➫Trata-se de um _layout one page_, com algumas animações e adaptado para todos os tipos de dispositivos.
+➫ _layout one page_, adaptado para todos os tipos de dispositivos.
 
-➫Para ver o projeto completo, é só clicar aqui: [Recife-digital➚](https://recife-site.netlify.app/)
+➫Para ver o projeto completo: [Recife-digital➚](https://recife-site.netlify.app/)
 
 ## _Tecnologias_ 
 
